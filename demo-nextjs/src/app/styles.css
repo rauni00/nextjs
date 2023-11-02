@@ -1,0 +1,15 @@
+.logo-text {
+  margin: 0px;
+  color: rgb(243, 202, 20);
+}
+ul {
+  display: flex;
+}
+li {
+  margin: 20px;
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+  margin: 20px;
+}
